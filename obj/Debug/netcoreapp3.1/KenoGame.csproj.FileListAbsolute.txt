@@ -1,0 +1,26 @@
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.exe
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.deps.json
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.runtimeconfig.json
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.runtimeconfig.dev.json
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.dll
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.pdb
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.csprojAssemblyReference.cache
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.csproj.CoreCompileInputs.cache
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.AssemblyInfoInputs.cache
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.AssemblyInfo.cs
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.dll
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.pdb
+C:\FIMK\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.genruntimeconfig.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.exe
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.deps.json
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.runtimeconfig.json
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.runtimeconfig.dev.json
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\bin\Debug\netcoreapp3.1\KenoGame.pdb
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.csprojAssemblyReference.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.csproj.CoreCompileInputs.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.AssemblyInfoInputs.cache
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.AssemblyInfo.cs
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.dll
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.pdb
+C:\FIMK - Informatike Inxhinierike\Semestri 6\Programimi i Orientuar ne Obiekte\Projekti - Faza e pare\KenoGame\obj\Debug\netcoreapp3.1\KenoGame.genruntimeconfig.cache
